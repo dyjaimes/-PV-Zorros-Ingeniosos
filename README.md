@@ -25,6 +25,7 @@ Estudiante de ingenieria multimedia, me encargare de crear los niveles y/o las m
 
 ### **Luis David Serrano Peñaranda**
 
+<img src="https://github.com/dyjaimes/-PV-Zorros-Ingeniosos/blob/main/David_S/vito.jpeg?raw=true" alt="Foto Luis David" width="300" />
 
 _Bogotá - Bogotá, Colombia_
 
